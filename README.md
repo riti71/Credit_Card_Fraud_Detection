@@ -18,3 +18,5 @@ The problem is to classify the defaulters and non-defaulters on the credit payme
 5. Train with classifiers
 6. Evaluate the model with test data
 7. Compare the accuracy, precision and recall finding the optimal model.
+
+Data : https://www.kaggle.com/mlg-ulb/creditcardfraud
